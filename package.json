@@ -1,0 +1,25 @@
+{
+    "name": "goit-advancedjs-hw-05",
+    "version": "1.0.0",
+    "description": "TS - HW5. Launch TS Project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "web-dev-server --node-resolve --open --watch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yulikafsd/goit-advancedjs-hw-05.git"
+    },
+    "keywords": [],
+    "author": "Yuliia Zahorovska <ju.zagorovsky@gmail.com>",
+    "license": "ISC",
+    "type": "module",
+    "bugs": {
+        "url": "https://github.com/yulikafsd/goit-advancedjs-hw-05/issues"
+    },
+    "homepage": "https://github.com/yulikafsd/goit-advancedjs-hw-05#readme",
+    "devDependencies": {
+        "@web/dev-server": "^0.4.6"
+    }
+}
